@@ -1,0 +1,9 @@
+env/
+*.csv
+*__pycache__/
+^.DS_STORE
+output/
+wandb/
+.vscode/
+data/
+models/

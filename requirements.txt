@@ -1,0 +1,5 @@
+torch==1.7.1
+transformers==4.4.2
+pandas==1.1.5
+nltk==3.5
+wandb==0.12.2
